@@ -12,6 +12,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamun-dev007" alt="mamun-dev007" /></a> </p>
 
+<h1 align = "center text-3xl font-bold ">About Me ...</h1>
+<P> I’m a passionate frontend developer focused on building clean, responsive, and user-friendly web interfaces. I enjoy exploring modern JavaScript tools, especially React and Next.js. I’m always learning, improving my craft, and working on real-world projects that sharpen my design sense and problem-solving skills.</P>
+
+
+
 - 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **React.js, Next.js, MongoDB, Tailwind CSS , javaScript**
