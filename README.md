@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <img src="https://github.com/mamun-dev007/mamun-dev007/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png" alt="Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm MAMUN MIA</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
