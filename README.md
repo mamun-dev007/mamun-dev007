@@ -10,6 +10,14 @@
 <h3 align="center">MERN Stack Developer | Building modern web apps</h3>
 
 
+## 👋 About Me
+MERN Stack Developer specializing in Next.js, React, Node.js, Express, and MongoDB, 
+focused on clean architecture, scalable applications, and real-world problem solving.
+
+
+
+
+
 ## 🚀 Current Status
 - 🌱 Learning : AI-powered Web Development (OpenAI API, Prompt Engineering)
 - 🤝 Open to : Challenging Projects, Startup Roles & Long-term Collaboration
@@ -71,4 +79,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- <Your blog post title 1> - <link>-->
 <!-- BLOG-POST-LIST:END -->
-
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mamun-dev007&show_icons=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun-dev007&layout=compact" />
+</p>
