@@ -33,7 +33,7 @@ focused on clean architecture, scalable applications, and real-world problem sol
   <a href="mailto:mamunmiahridoy@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/md-mamun-mia-0b931635b/" target="_blank">
+  <a href="https://www.linkedin.com/in/mamun-mia007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/mdmamun.mia.94695" target="_blank">
